@@ -10,8 +10,11 @@ I'm a **Frontend Developer** passionate about crafting appealing and functional 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **advanced CSS animations**
 - 💬 Ask me about **JavaScript, React, and C++**
-- 📫 How to reach me: [bhaktiagrawal286@gmail.com]
+- 📫 How to reach me: [bhaktiagrawal286@gmail.com](mailto:bhaktiagrawal286@gmail.com)
 - ⚡ Fun fact: I love **blender-3D Model and hiking**
+
+## 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktiagrawal088&layout=compact&theme=radical)
 
 ## 🛠️ Skills
 
@@ -32,7 +35,6 @@ I'm a **Frontend Developer** passionate about crafting appealing and functional 
 
 ### [Pixstock - A large stock library](https://stock-media-platform.vercel.app/)
 🚧 *Description*: Pixstock is a stock media app that provides users with a large library of high-quality photos and videos. A user-friendly interface with various categories of media to explore.
-
 
 
 ## 💬 Connect with Me
