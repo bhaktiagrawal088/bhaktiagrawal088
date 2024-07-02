@@ -13,9 +13,6 @@ I'm a **Frontend Developer** passionate about crafting appealing and functional 
 - 📫 How to reach me: [bhaktiagrawal286@gmail.com](mailto:bhaktiagrawal286@gmail.com)
 - ⚡ Fun fact: I love **blender-3D Model and hiking**
 
-## 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktiagrawal088&layout=compact&theme=radical)
-
 ## 🛠️ Skills
 
 ### Languages & Frameworks
