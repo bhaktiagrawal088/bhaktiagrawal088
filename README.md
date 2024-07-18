@@ -3,8 +3,7 @@
 
 
 ## 🌟 About Me
-
-I'm a **Frontend Developer** passionate about crafting appealing and functional web applications. I love exploring new technologies and continuously improving my skills.
+ **Frontend Developer** passionate about crafting appealing and functional web applications. I love exploring new technologies and continuously improving my skills.
 
 - 🌱 I’m currently learning **JavaScript and React.js**
 - 👯 I’m looking to collaborate on **Open Source Projects**
